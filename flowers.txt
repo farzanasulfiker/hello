@@ -2,3 +2,6 @@ lilly
 rose
 jasmine
 lotus
+violet
+[B[B[B[Byellow
+blue
