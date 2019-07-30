@@ -1,12 +1,3 @@
 lilly
-rose
 jasmine
-lotus
-violet
-blue
-red
-blue
-green
-divya
-farzana
-anlin
+rose
