@@ -2,6 +2,8 @@ lilly
 rose
 jasmine
 lotus
+violet
+blue
 red
 blue
 green
