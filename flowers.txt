@@ -5,3 +5,6 @@ lotus
 red
 blue
 green
+divya
+farzana
+anlin
