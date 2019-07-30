@@ -2,5 +2,10 @@ hippo
 snake
 fox
 wolf
+
 dogg
 catt
+
+tiger 
+lion 
+
